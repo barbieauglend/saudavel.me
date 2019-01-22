@@ -1,0 +1,18 @@
+/* Pattern styles */
+.left-half {
+  float: left;
+  width: 50%;
+}
+
+.right-half {
+  float: left;
+  width: 50%;
+}
+
+.sitetitle {
+  color:#C4EC4C;
+}
+
+.lead {
+  color:#663566;
+}
